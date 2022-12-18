@@ -6,7 +6,9 @@
 ## <구동방식>
 1.프로젝트 우클릭 후 RUS AS SPRINGBOOT를 선택합니다.
 2.주소창에 localhost:8802/watchdogs/intro 를 입력해 실행합니다.
-3.쥬피터에 있는 watchdogs 에서 FLASK를 실행합니다.
+3.watchdogs 폴더를 쥬피터 노트북에 업로드해줍니다.
+4.WatchDogs.ipynb 를 실행해줍니다.
+
 
 ## <웹 사용 순서>
 1. INTRO페이지에서 로그인 창으로 이동합니다
