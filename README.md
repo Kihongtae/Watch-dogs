@@ -4,10 +4,10 @@
 와치독스는 블록체인(코인) 데이터 기반 이상거래 탐지 서비스 및 주소 정보, 신고내역을 조회할수 있는 사이트 입니다.
 
 ## <구동방식>
-1.프로젝트 우클릭 후 RUS AS SPRINGBOOT를 선택합니다.
-2.주소창에 localhost:8802/watchdogs/intro 를 입력해 실행합니다.
-3.watchdogs 폴더를 쥬피터 노트북에 업로드해줍니다.
-4.WatchDogs.ipynb 를 실행해줍니다.
+1. 프로젝트 우클릭 후 RUS AS SPRINGBOOT를 선택합니다.
+2. 주소창에 localhost:8802/watchdogs/intro 를 입력해 실행합니다.
+3. watchdogs 폴더를 쥬피터 노트북에 업로드해줍니다.
+4. WatchDogs.ipynb 를 실행해줍니다.
 
 
 ## <웹 사용 순서>
